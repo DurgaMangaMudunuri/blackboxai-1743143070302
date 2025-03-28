@@ -1,0 +1,9 @@
+/project/sandbox/user-workspace/src/main/java/com/example/eventmanagement/model/Event.java
+/project/sandbox/user-workspace/src/main/java/com/example/eventmanagement/dao/JdbcEventDao.java
+/project/sandbox/user-workspace/src/main/java/com/example/eventmanagement/service/EventServiceInterface.java
+/project/sandbox/user-workspace/src/main/java/com/example/eventmanagement/service/EventServiceImpl.java
+/project/sandbox/user-workspace/src/main/java/com/example/eventmanagement/EventManagementApplication.java
+/project/sandbox/user-workspace/src/main/java/com/example/eventmanagement/config/DatabaseConfig.java
+/project/sandbox/user-workspace/src/main/java/com/example/eventmanagement/controller/EventController.java
+/project/sandbox/user-workspace/src/main/java/com/example/eventmanagement/dao/EventDao.java
+/project/sandbox/user-workspace/src/main/java/com/example/eventmanagement/service/EventService.java
