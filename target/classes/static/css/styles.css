@@ -1,0 +1,57 @@
+/* Base styles */
+body {
+    padding-top: 20px;
+    background-color: #f8f9fa;
+}
+
+/* Card styles */
+.card {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    margin-bottom: 20px;
+}
+
+/* Table styles */
+.table-responsive {
+    margin-bottom: 20px;
+}
+
+.table th {
+    background-color: #0d6efd;
+    color: white;
+}
+
+/* Form styles */
+.form-label {
+    font-weight: 500;
+}
+
+/* Button spacing */
+.btn-group .btn {
+    margin-right: 5px;
+}
+
+/* Seat availability indicator */
+.seat-availability {
+    height: 20px;
+    background-color: #e9ecef;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.seat-availability-bar {
+    height: 100%;
+    background-color: #198754;
+    width: 100%;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .btn-group {
+        display: flex;
+        flex-direction: column;
+    }
+    .btn-group .btn {
+        margin-bottom: 5px;
+        margin-right: 0;
+    }
+}
